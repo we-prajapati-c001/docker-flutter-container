@@ -1,0 +1,1 @@
+This folder will be used for storing all the projects created inside the Docker container.
